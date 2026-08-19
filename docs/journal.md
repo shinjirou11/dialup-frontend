@@ -2,3 +2,4 @@
 
 ## 2026-8 Phase0
 before commit, confirm git status and git diff --staged
+保存してからコミットしないとinsertionsが0になってしまう
